@@ -3,5 +3,6 @@
 
 int main(){
 	printf ("Hello, world");
+	puts "Hello, #{ARGV.first}!"
 	return 1;
 }
