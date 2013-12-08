@@ -9,7 +9,7 @@ int main(){
  //malo by sa toto pridat na net :)
  //spravil som na nete vetvu Vetva :)
  //mozem sem nieco pridat:)
- //jou jupidupi jej :)
+ //jou jupidupi jej juju :)
  printf ("Juchuuu");
  return 1;
 }
