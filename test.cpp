@@ -4,6 +4,7 @@
 int main(){
 	printf ("Hello, world");
 	puts "Hello, #{ARGV.first}!"
-    //pridal som si nieèo nové do master vetvy <- tento riadok =D 
+    //pridal som si nieï¿½o novï¿½ do master vetvy <- tento riadok =D 
+	// tento riadok prave pridavam na nete :D
 	return 1;
 }
