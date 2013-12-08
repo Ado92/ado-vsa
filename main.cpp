@@ -8,6 +8,6 @@ int main(){
  // tento riadok prave pridavam na nete :D
  //malo by sa toto pridat na net :)
  //spravil som na nete vetvu Vetva :)
- //môem sem nieèo prida :)
+ //mozem sem nieco pridat:)
  return 1;
 }
