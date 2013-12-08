@@ -6,5 +6,6 @@ int main(){
 	puts "Hello, #{ARGV.first}!"
     //pridal som si nieco nove do master vetvy <- tento riadok =D 
 	// tento riadok prave pridavam na nete :D
+	//malo by sa toto pridat na net :)
 	return 1;
 }
