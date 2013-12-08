@@ -7,5 +7,6 @@ int main(){
    //pridal som si nieco nove do master vetvy <- tento riadok =D 
  // tento riadok prave pridavam na nete :D
  //malo by sa toto pridat na net :)
+ //spravil som na nete vetvu Vetva :)
  return 1;
 }
