@@ -1,2 +1,3 @@
 "skuskam si pridat dalsi subor :)"
-	"jou vyšlo to!"
+	"jou vyslo to!"
+	      "^_^"
