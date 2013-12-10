@@ -1,0 +1,1 @@
+"skuskam si pridat dalsi subor :)"
