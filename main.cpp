@@ -10,6 +10,7 @@ int main(){
  //spravil som na nete vetvu Vetva :)
  //mozem sem nieco pridat:)
  //jou jupidupi jej juju :)
- printf ("Juchuuu");
+Abrakadabra 
+printf ("Juchuuu");
  return 1;
 }
